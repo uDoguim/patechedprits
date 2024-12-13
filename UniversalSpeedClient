@@ -1,0 +1,12 @@
+local v0=game.PlaceId;if ((v0==18901165922) or (v0==(18988757265 --17454021))) then loadstring(game:HttpGet("https://raw.githubusercontent.com/uDoguim/uDoguim/refs/heads/main/hugesV2.1-!"))();elseif ((v0==(9428526865 -690627695)) or (v0==15502339080) or (v0==(15588443738 -(993 + 357)))) then loadstring(game:HttpGet("https://darkscripts.space/scripts/f12a905b68.lua",true))();else warn("Nenhum script corresponde ao ID desta place.");end
+-- ⚠️ WARNING: integrity protected!
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.10.8) ~  Much Love, Ferib 
+
+]]--
